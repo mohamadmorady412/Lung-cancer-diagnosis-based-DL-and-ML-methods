@@ -1,0 +1,3 @@
+The virtual environment here is (tf), which is the virtual environment of the flow tensor:
+Activation command: activate
+Deactivation command: conda deactivate
